@@ -5,7 +5,9 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-
+body{
+    overflow-x: hidden;
+}
 
 .header {
     height: auto;
@@ -1869,6 +1871,8 @@ button:hover {
     width: max-content;
     display: flex;
     justify-content: center;
+    justify-items: center;
+    gap: 3px;
 }
 
 .best2 h2 {
@@ -1883,7 +1887,6 @@ button:hover {
     font-size: 20px;
     font-weight: 500;
     color: RGB(150, 150, 150);
-    margin-left: 30px;
 }
 
 .best2 h3 {
