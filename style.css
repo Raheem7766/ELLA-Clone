@@ -5,6 +5,10 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+body {
+    overflow: hidden;
+}
+
 .header {
     height: auto;
     width: 100%;
@@ -1489,7 +1493,7 @@ button:hover {
 
     16.5% {
         margin-left: -32.5%;
-    } 
+    }
 
     33% {
         margin-left: -32.5%;
@@ -1980,6 +1984,7 @@ input[type='radio']:checked+.label-3 {
     position: relative;
     margin-top: 20px;
 }
+
 .pink {
     background-color: black;
 }
