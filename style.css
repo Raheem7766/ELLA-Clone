@@ -1866,7 +1866,7 @@ button:hover {
 
 .best2 {
     height: 35px;
-    width: 100%;
+    width: max-content;
     display: flex;
     justify-content: center;
 }
