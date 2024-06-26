@@ -1,0 +1,370 @@
+
+@media screen and (max-width:1415px) {
+    .nav1-items {
+        width: 97%;
+    }
+
+    .nav2 {
+        width: 97%;
+    }
+}
+
+@media screen and (max-width:1330px) {
+    .shop2 h3 {
+        border-bottom: none;
+        width: auto;
+    }
+
+}
+
+@media screen and (max-width:1310px) {
+    .drop7-cont {
+        width: 1100px;
+    }
+
+    .drop2 {
+        left: 0;
+    }
+
+    .drop2-product {
+        width: 190px;
+    }
+
+    .drop1 {
+        left: 0;
+    }
+
+    .drop {
+        left: 0;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .tyre1 {
+        justify-content: space-around;
+    }
+
+    .tyre1-cont {
+        width: 200px;
+    }
+
+    .tyre2 {
+        display: none;
+    }
+
+    .footer-cont {
+        flex-wrap: wrap;
+        height: auto;
+    }
+    .footer-cont1{
+        width: 32%;
+    }
+    .footer{
+        height: auto;
+    }
+}
+
+@media screen and (max-width:1210px) {
+    .drop7-cont {
+        width: 900px;
+    }
+
+    .shop2-cont {
+        margin-left: 5%;
+        width: 90%;
+    }
+
+    .shop2-cont1 {
+        height: max-content;
+    }
+
+    .inst {
+        display: none;
+    }
+
+    .ella2-cont {
+        width: 24%;
+    }
+}
+@media screen and (max-width:1170px) {
+    .best1{
+        width: 95%;
+    }
+
+}
+@media screen and (max-width:1150px) {
+    .imgs-cont {
+        width: 95%;
+        margin-top: 60px;
+    }
+
+    .imgs {
+        height: auto;
+    }
+
+}
+
+
+@media screen and (max-width:1060px) {
+    .drop5 {
+        left: 5%;
+    }
+}
+
+@media screen and (max-width:1025px) {
+    .nav {
+        display: none;
+    }
+
+    .nav3 {
+        display: block;
+        flex-direction: row;
+        justify-content: space-between;
+        display: flex;
+    }
+
+    .fa-bars:hover~.menu {
+        display: block;
+    }
+
+    .header-text {
+        left: 5%;
+        top: 130px;
+    }
+
+    .header-text h2 {
+        font-size: 24px;
+        font-weight: 800;
+    }
+
+    .header-text p {
+        margin-top: 5px;
+    }
+
+    button {
+        margin-top: 25px;
+    }
+
+    .header-img {
+        height: 380px;
+    }
+
+    .img-button {
+        opacity: 1;
+    }
+
+}
+
+@media screen and (max-width:990px) {
+    .header-text {
+        margin-left: 10%;
+    }
+
+    .tyre3 {
+        display: none;
+    }
+
+    .temp {
+        display: none;
+    }
+
+    .post-cont1 {
+        width: 49%;
+    }
+
+    .inst1 {
+        display: none;
+    }
+
+    .ella2-cont {
+        width: 33%;
+    }
+    .web{
+        display: none;
+    }
+    .best3-cont{
+        width: 30%;
+    }
+    #input-2:checked ~ .slider1{
+        margin-left: -66.5%;
+    
+    }
+    .shop{
+        flex-wrap: wrap;
+        height: max-content;
+    }
+    .shop1{
+        width: 100%;
+    }
+    .button{
+        margin-top: 60px;
+    }
+    .play{
+        left: 44%;
+    }
+    .slider{
+        width: 300%;
+    }
+    .shop2{
+        width: 100%;
+    }
+    @keyframes slider {
+        0%{
+            margin-left: 0;
+        }
+        25%{
+            margin-left: -48%;
+        }
+        50%{
+            margin-left: -48%;
+        }
+        51%{
+            margin-left: -48%;
+        }
+        75%{
+            margin-left: -100%;
+        }
+        100%{
+            margin-left: -100%;
+        }
+
+        
+    }
+    
+
+
+
+
+}
+
+@media screen and (max-width:770px) {
+    .header {
+        height: 93.5vh;
+        width: auto;
+    }
+
+    .header-img {
+        height: 1120px;
+    }
+
+    .header-text {
+        top: 60%;
+        left: -7%;
+    }
+
+    .tyre {
+        margin-top: 405px;
+    }
+
+    .tyre4 {
+        display: none;
+    }
+
+    .tyre1-cont {
+        width: 170px;
+    }
+
+    .tyre1 {
+        width: 100%;
+    }
+
+    .imgs-cont {
+        flex-wrap: nowrap;
+        flex-direction: column;
+    }
+
+    .img-ban {
+        width: 100%;
+    }
+
+    .imgs-cont1 {
+        height: 100%;
+        width: 100%;
+    }
+    .inst2 {
+        display: none;
+    }
+
+    .ella2-cont {
+        width: 49%;
+    }
+    .footer-cont1 ul li{
+        display:none;
+    }
+    .footer-cont1{
+        width: 100%;
+        margin-top: 10px;
+        border-bottom: 1px solid white;
+    }
+    .footer-cont2{
+        width: auto;
+        margin-top: 20px;
+    }
+    .last{
+        margin-top: 30px;
+    }
+    .last{
+        width: 90%;
+    }
+    .footer{
+        padding-bottom: 60px;
+    }
+    .enter{
+        flex-wrap: wrap;
+        width: 90%;
+    }
+    .entr input{
+        width: 100% !important;
+    }
+    .web1{
+        display: none;
+    }
+    #input-2:checked ~ .slider1{
+        margin-left: -50%;
+    }
+    .label-2{
+        left: 50%;
+    }
+    .label-3{
+        left: 54%;
+    }
+    
+
+}
+@media screen and (max-width:650px) {
+    .best h2{
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .best h3{
+        font-size: 18px;
+        font-weight: 500;
+    }
+
+}
+@media screen and (max-width:400px) {
+    .tyre1-cont {
+        width: 40%;
+    }
+}
+
+@media screen and (max-width:470px) {
+    .temp1 {
+        display: none;
+    }
+
+    .post-cont1 {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:410px) {
+    .ella1 {
+        width: 100%;
+    }
+
+    .fa-instagram {
+        margin-left: 10%;
+    }
+
+}
