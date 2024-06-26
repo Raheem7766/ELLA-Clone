@@ -1873,6 +1873,7 @@ button:hover {
     justify-content: center;
     justify-items: center;
     gap: 3px;
+    overflow: hidden;
 }
 
 .best2 h2 {
